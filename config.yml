@@ -7,6 +7,7 @@ params:
   systems:
     - name: Gmail
       description: Google Mail
+      group: Google
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
@@ -22,7 +23,6 @@ params:
   iconType: image/png
   groups:
     - Google
-    - ""
   icon: /images/NCS_logo.png
   description_footer: <a class='text-grey-darkest' title='Visit example.com'
     href='https://www.example.com/'>Example.com</a> provides open-source
