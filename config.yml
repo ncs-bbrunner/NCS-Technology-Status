@@ -8,6 +8,7 @@ params:
     - name: Gmail
       description: ""
       group: Google
+      status: isDown
     - name: Google Drive
       group: Google
     - name: Google Calendar
