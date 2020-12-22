@@ -22,7 +22,7 @@ params:
   iconType: image/png
   groups:
     - Google
-  icon: /images/clearstatus.png
+  icon: /images/NCS_logo.png
   description_footer: <a class='text-grey-darkest' title='Visit example.com'
     href='https://www.example.com/'>Example.com</a> provides open-source
     software for all kind of sectors.
