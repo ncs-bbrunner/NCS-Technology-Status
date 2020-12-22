@@ -15,3 +15,4 @@ affected:
 twitterFeed: ""
 enableComments: false
 ---
+Some Google services are currently experiencing issue.  We will provide an update once information is made available to us.
