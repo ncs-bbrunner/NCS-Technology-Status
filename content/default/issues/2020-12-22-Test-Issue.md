@@ -74,7 +74,7 @@ section: issue
 ## Enter below issue description and subsequent updates if any
 ---
 
-Both our website and customer support area cannot be reached at the moment. We are investigating the matter.
+Some Google services do not seem to be currently usable.  We will provide updates when we learn anything new.
 \
 **Issue identified:** Google services that require authentication to use are not working.  {{< track "2020-12-22 14:00:19" >}}
 \
