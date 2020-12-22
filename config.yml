@@ -5,12 +5,12 @@ params:
   meta_description: This status page provides updated information about our
     systems normal operation, incidents that may happen and their resolution.
   systems:
-    - name: test
-      description: test
+    - name: Gmail
+      description: Google Mail
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
-  logo: /images/clearstatus.svg
+  logo: /images/NCS_logo.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
     example.com' href='https://www.example.com/'>example</a> systems
     operations.<br />Follow us <a class='text-grey-darkest' title='Visit our
@@ -22,6 +22,7 @@ params:
   iconType: image/png
   groups:
     - Google
+    - ""
   icon: /images/NCS_logo.png
   description_footer: <a class='text-grey-darkest' title='Visit example.com'
     href='https://www.example.com/'>Example.com</a> provides open-source
