@@ -13,5 +13,5 @@ affected:
   - Google Drive
   - Google Meet
 twitterFeed: ""
-enableComments: true
+enableComments: false
 ---
