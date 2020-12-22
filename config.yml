@@ -6,7 +6,13 @@ params:
     systems normal operation, incidents that may happen and their resolution.
   systems:
     - name: Gmail
-      description: Google Mail
+      description: ""
+      group: Google
+    - name: Google Drive
+      group: Google
+    - name: Google Calendar
+      group: Google
+    - name: Google Meet
       group: Google
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
